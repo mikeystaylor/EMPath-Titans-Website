@@ -1,0 +1,29 @@
+::selection {
+  background-color:#151515;
+  color: #0b6a80;
+}
+::-moz-selection {
+  background-color:#151515;
+  color: #0b6a80;
+}
+
+
+header .k-navbar-nav li a.active,
+header .k-navbar-nav li a:hover,
+.theme-color {
+  color:#151515;
+}
+
+.theme-border {
+	border-color: #151515;
+}
+
+.m-btn,
+.theme-after:after,
+.theme-bg {
+  background: #151515;
+}
+
+.theme-media {
+	border-color: #151515;
+}
